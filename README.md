@@ -5,7 +5,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh6333&theme=dracula" alt="harsh6333" />
 
   
-  <img alt="typing" align="right" height="180" src="https://gifs.alphacoders.com/gifs/view/15807" />
+  <img alt="typing" align="right" height="180" src="https://gifs.alphacoders.com/gifs/view/15807.gif" />
   
   
 </p>
