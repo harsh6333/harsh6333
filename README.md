@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">A Full Stack developer</h3>
 <p> 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh6333&theme=dracula"  height="200" alt="harsh6333" />
-  <img alt="typing" align="right" height="200" src="./ichigo.gif" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh6333&theme=dracula"  height="180" alt="harsh6333" />
+  <img alt="typing" align="right" height="180" src="./ichigo.gif" />
 </p>
 
 - 📫 How to reach me **theoneharsh2003@gmail.com**
