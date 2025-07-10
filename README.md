@@ -18,7 +18,7 @@
 ## 📫 Contact Me
 
 - 📧 Email: **theoneharsh2003@gmail.com**  
-- 🌐 Portfolio: harshdubey.pages.dev  
+- 🌐 Portfolio: **harshdubey.pages.dev**  
 - 💼 LinkedIn: [Harsh Dubey](https://www.linkedin.com/in/harsh-dubey-3b4aa225b/)
 
 ---
