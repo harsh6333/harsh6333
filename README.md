@@ -6,9 +6,9 @@
 </p>
 
 
-<a href="https://github.com/harsh6333">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh6333&layout=compact&langs_count=8&card_width=400&theme=tokyonight" alt="Top Languages" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh6333&theme=dracula" height="180" alt="harsh6333-streak" />
+</p>
 
 <p align="center">
   <img alt="Ichigo GIF" src="./ichigo.gif" height="180"/>
